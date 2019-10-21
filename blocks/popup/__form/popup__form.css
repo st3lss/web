@@ -1,0 +1,21 @@
+.popup__form {
+  margin-top: 60px;
+}
+
+.popup__valid-name {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #FF0000;
+}
+
+.popup__valid-link {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #FF0000;
+}
