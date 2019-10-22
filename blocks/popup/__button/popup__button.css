@@ -1,19 +1,9 @@
 .popup__button {
-  background-color: white;
   width: 100%;
   height: 50px;
-  border: 1px solid rgba(0, 0, 0, .2);
   margin-top: 48px;
+  border: 1px solid rgba(0, 0, 0, .2);
   color: rgba(0, 0, 0, .2);
-  font-size: 36px;	
-}
-
-.popup__button_act {
-  background-color: black;
-  width: 100%;
-  height: 50px;
-  border: 1px solid rgba(0, 0, 0, .2);
-  margin-top: 48px;
-  color: white;
-  font-size: 36px;
+  background-color: transparent;
+  cursor: default;
 }

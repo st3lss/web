@@ -1,0 +1,13 @@
+@import url(./input-error_field/input-error-field.css);
+@import url(./input-error_symbols/input-error-symbols.css);
+@import url(./input-error-field-enabled/fields-enabled.css);
+@import url(./input-error-symbols-enabled/symbols-enabled.css);
+@import url(./input-error_link/input-error_link.css);
+
+.input-error {
+    font-size: 12px;
+    line-height: 15px;
+    color: red;
+    margin-top: 0;
+    padding-top: 0;
+}

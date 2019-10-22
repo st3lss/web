@@ -1,0 +1,6 @@
+@import url(./popup-close/popup-close.css);
+@import url(./popup-image/popup-image.css);
+
+.popup-content {
+    position: relative;
+}
